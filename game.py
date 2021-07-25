@@ -5,7 +5,7 @@ import numpy as np
 import cv2
 import time
 import random
-
+# This is a comment
 rock_surface = pygame.image.load('data/rock.png')
 paper_surface = pygame.image.load('data/paper.png')
 scissors_surface = pygame.image.load('data/scissors.png')
